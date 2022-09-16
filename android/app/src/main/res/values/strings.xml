@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">E_Commerce</string>
+    <string name="facebook_app_id">327670462751361</string>
+    <string name="fb_login_protocol_scheme">fb432678585571609</string>
+    <string name="facebook_client_token">f64569787b718707edb277c23946bb69 </string>
+</resources>
+<!--
+
+keytool -exportcert -alias androiddebugkey -keystore "C:\Users\This PC\.android\debug.keystore" | "C:\Users\This PC\openssl-0.9.8k_WIN32\bin\openssl" sha1 -binary | "C:\Users\This PC\openssl-0.9.8k_WIN32\bin\openssl" base64
+
+-->
